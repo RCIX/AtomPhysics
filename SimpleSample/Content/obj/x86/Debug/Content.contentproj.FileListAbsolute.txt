@@ -1,0 +1,2 @@
+C:\Users\Sean\Documents\Visual Studio 2008\Projects\AtomPhysics\SimpleSample\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\AtomPhysics\SimpleSample\Content\obj\x86\Debug\ResolveAssemblyReference.cache

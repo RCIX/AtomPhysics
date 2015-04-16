@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomPhysics", "AtomPhysics\AtomPhysics.csproj", "{DA1F2888-0692-4A41-BD5B-B0095116B01D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSample", "SimpleSample\SimpleSample.csproj", "{EC58DC24-02C0-4837-87D0-BA72E8257654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1F2888-0692-4A41-BD5B-B0095116B01D}.Debug|x86.ActiveCfg = Debug|x86
+		{DA1F2888-0692-4A41-BD5B-B0095116B01D}.Debug|x86.Build.0 = Debug|x86
+		{DA1F2888-0692-4A41-BD5B-B0095116B01D}.Release|x86.ActiveCfg = Release|x86
+		{DA1F2888-0692-4A41-BD5B-B0095116B01D}.Release|x86.Build.0 = Release|x86
+		{EC58DC24-02C0-4837-87D0-BA72E8257654}.Debug|x86.ActiveCfg = Debug|x86
+		{EC58DC24-02C0-4837-87D0-BA72E8257654}.Debug|x86.Build.0 = Debug|x86
+		{EC58DC24-02C0-4837-87D0-BA72E8257654}.Release|x86.ActiveCfg = Release|x86
+		{EC58DC24-02C0-4837-87D0-BA72E8257654}.Release|x86.Build.0 = Release|x86
+		{2F321F51-3C80-4393-9C2D-65B8434DBA07}.Debug|x86.ActiveCfg = Debug|x86
+		{2F321F51-3C80-4393-9C2D-65B8434DBA07}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
